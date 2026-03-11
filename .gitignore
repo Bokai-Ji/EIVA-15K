@@ -1,0 +1,5 @@
+cot_logs/*
+ckpts/*
+merged_affordance_dataset.json
+downsampled_affordance_dataset.json
+automatic_mask_generator_example.ipynb
